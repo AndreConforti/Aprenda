@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<signos>
+
+    <signo>
+
+        <dataInicio>21/03</dataInicio>
+
+        <dataFim>19/04</dataFim>
+
+        <signoNome>Áries</signoNome>
+
+        <descricao>Dinâmicos e sinceros, quem tem sol em Áries costuma ter um forte contato com a sua individualidade, que pode parecer egoísmo em alguns momentos. Arianas e arianos tendem a ser alegres e muito extrovertidos, mas também podem ser bastante competitivos e soar um pouco autoritários. Podem preferir trabalhar sozinhos, mas costumam ter um ótimo espírito de liderança.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>20/04</dataInicio>
+
+        <dataFim>20/05</dataFim>
+
+        <signoNome>Touro</signoNome>
+
+        <descricao>Calmo e persistente, se você tem sol no signo de Touro, provavelmente não costuma se irritar com facilidade. Em geral, suas posses e bens materiais são importantes para você. E, dependendo do restante do seu Mapa Astral, você pode usar isso ao seu favor, desenvolvendo uma tendência natural para acumular bens materiais, além de um ótimo senso de organização financeira. Mas atenção! Essa mesma característica pode despertar possessividade e materialismos excessivos.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>21/05</dataInicio>
+
+        <dataFim>21/06</dataFim>
+
+        <signoNome>Gêmeos</signoNome>
+
+        <descricao>Curioso e bem humorado, quem tem sol no signo de Gêmeos costuma fazer amigos sem grandes dificuldades, tem uma verdadeira vocação para manter um círculo social diverso, com todas as tribos possíveis. Dois em um? Geminianos e geminianas podem ter uma personalidade versátil, que se adapta a diversas formas de pensamento e podem transitar tranquilamente por dois lados de uma questão. Mas atenção! Com imaturidade essa facilidade de mediação pode se transformar em falsidade.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>22/06</dataInicio>
+
+        <dataFim>22/07</dataFim>
+
+        <signoNome>Câncer</signoNome>
+
+        <descricao>Emotivos e sensíveis, quem tem sol no signo de Câncer costuma ter uma forte conexão com as lembranças do passado, que podem contribuir para posturas muito sentimentais ou até melancólicas. Cancerianas e cancerianos podem ser muito apegados, mas costumam ter um cuidado ímpar com todas as pessoas que amam. Tendem a buscar segurança e proteção, e isso pode se demonstrar com comportamentos no dia a dia que não oferecem grandes riscos.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>23/07</dataInicio>
+
+        <dataFim>22/08</dataFim>
+
+        <signoNome>Leão</signoNome>
+
+        <descricao>Vaidade e bom humor podem ser marca registrada na personalidade de quem tem o sol no signo de Leão. Carismáticos e naturalmente destacáveis, leoninas e leoninos típicos tendem a ser bem extrovertidos. Sua generosidade também se destaca em seu modo de amar, a felicidade da outra pessoa na relação também é motivo de sua própria alegria.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>23/08</dataInicio>
+
+        <dataFim>22/09</dataFim>
+
+        <signoNome>Virgem</signoNome>
+
+        <descricao>A busca pela perfeição pode ser bem presente na personalidade de quem tem o sol no signo de Virgem. Naturalmente adeptos da praticidade, virginianas e virginianos podem melhorar sua auto-estima se sentindo mais úteis e produtivos. O nível elevado de autocrítica, porém, pode levá-los a subestimar seus próprios talentos com certa facilidade.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>23/09</dataInicio>
+
+        <dataFim>22/10</dataFim>
+
+        <signoNome>Libra</signoNome>
+
+        <descricao>A empatia e a diplomacia podem ser bem presentes na personalidade de quem tem o sol no signo Libra. Naturalmente direcionados para as relações com outras pessoas, librianas e librianos podem ter um grande talento para solucionar conflitos, porém, a preocupação em racionalizar os dois lados de uma questão pode gerar situações de dúvida e indecisão.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>23/10</dataInicio>
+
+        <dataFim>21/11</dataFim>
+
+        <signoNome>Escorpião</signoNome>
+
+        <descricao>Uma forte intuição é uma das marcas registradas de quem tem Sol no signo Escorpião, geralmente orientados pelas suas emoções, escorpianos e escorpianas conseguem enxergar nas entrelinhas e identificar o que não foi dito. Bastante conectados com seus sentimentos, podem desenvolver comportamentos possessivos e obsessivos.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>22/11</dataInicio>
+
+        <dataFim>21/12</dataFim>
+
+        <signoNome>Sagitário</signoNome>
+
+        <descricao>Vaidosos e bem humorados, quem tem sol no signo de Sagitário costuma enxergar com facilidade o lado positivo de cada situação. Cidadãos do mundo, sagitarianas e sagitarianos geralmente são pessoas extrovertidas, espontâneas e comunicativas que não gostam nenhum pouco de solidão. O idealismo sempre presente, também faz do signo de Sagitário o incentivador ideal, capaz de contagiar qualquer equipe sem muitos esforços.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>22/12</dataInicio>
+
+        <dataFim>19/01</dataFim>
+
+        <signoNome>Capricórnio</signoNome>
+
+        <descricao>Praticidade e maturidade são típicas características de Capricórnio. Independentes, costumam fazer seu próprio caminho e não confiar muito em rotas traçadas por outras pessoas. Quem tem um acúmulo de planetas em Capricórnio signo pode ter um perfil workaholic, mas a carreira profissional é apenas um dos aspectos que chamam a atenção dos capricornianos.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>20/01</dataInicio>
+
+        <dataFim>18/02</dataFim>
+
+        <signoNome>Aquário</signoNome>
+
+        <descricao>A busca por inovação e independência podem ser características fortes em pessoas com o sol no signo de Aquário. Com criatividade sempre em alta, costumam ser bastante inventivas e direcionadas a solução de problemas. Quem tem um acúmulo de planetas no signo de Aquário pode ter um perfil questionador e radical, e em algumas situações pode discordar da maioria pelo simples fato de querer ser sempre diferente.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>19/02</dataInicio>
+
+        <dataFim>20/03</dataFim>
+
+        <signoNome>Peixes</signoNome>
+
+        <descricao>A empatia e a humildade podem ser fortes características de Peixes. Sempre conectados com sua intuição, piscianos e piscianas costumam captar as coisas no ar, muitas vezes são pessoas bem discretas e observadoras que conseguem perceber o mundo através da observação de si. Quem tem um acúmulo de planetas no signo de Peixes tende a dar muita importância aos seus sonhos e ao que ainda não é real, mas pode ser.</descricao>
+
+    </signo>
+
+</signos>
